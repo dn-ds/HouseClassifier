@@ -94,8 +94,7 @@ such as sea lion and tractor.
 used to extract meaningful features from the house images.
       * **Fine-Tuning:** Some of the top layers of the pretrained base model 
 are unfreezed, and jointly trained along with a new classifier.
-    - The final model achieved an accuracy score of approximately 0.93 on the 
-test set
+    - The final model achieved an accuracy score of 0.93 on the test set
     - This notebook was run on an AWS EC2 c5a.9xlarge instance.
 
 **Main tools and packages used for the project:** 
