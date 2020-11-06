@@ -78,7 +78,7 @@ metric.
     - As a first attempt, a basic convolutional neural network is built and
 trained. Since the training dataset is rather small, the model includes a 
 data augmentation layer. Unsurprisingly, the model does not perform well,
-achieving an accuracy score of 0.33
+achieving an accuracy score of only 0.33
     - A better model is built using the technique of *Transfer Learning*.
 A pretrained 
 [Xception](http://www.tensorflow.org/api_docs/python/tf/keras/applications/Xception)
