@@ -20,7 +20,7 @@ To ascertain the type of a house, upload it's image using the 'Browse' button,
 and click 'Classify House'. The model will determine the most likely house 
 type, and show you the predicted probabilities of all six classes.
 
-<img src='images/landing_page.png' width='50%' height='50%'>
+<img src='images/landing_page.png' width='100%' height='100%'>
 
 
 ### How does HouseClassifier work?
