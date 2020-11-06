@@ -105,7 +105,7 @@ test set
 [Matplotlib](http://matplotlib.org), 
 [seaborn](http://seaborn.pydata.org), 
 [scikit-learn](http://scikit-learn.org),
-[TensorFlow]](http://www.tensorflow.org),
+[TensorFlow](http://www.tensorflow.org),
 [Keras](http://keras.io),
 [Flask](http://palletsprojects.com/p/flask),
 [jQuery](http://jquery.com), 
